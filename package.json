@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@openzeppelin/truffle-upgrades": "^1.2.1",
+    "@truffle/hdwallet-provider": "^1.1.1",
+    "chai": "^4.2.0",
     "truffle": "^5.1.51"
   }
 }
